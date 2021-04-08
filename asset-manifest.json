@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/myreactapp/static/css/main.45ad64a0.chunk.css",
+    "main.js": "/myreactapp/static/js/main.33261fcb.chunk.js",
+    "main.js.map": "/myreactapp/static/js/main.33261fcb.chunk.js.map",
+    "runtime-main.js": "/myreactapp/static/js/runtime-main.71c8c739.js",
+    "runtime-main.js.map": "/myreactapp/static/js/runtime-main.71c8c739.js.map",
+    "static/js/2.f5825a6b.chunk.js": "/myreactapp/static/js/2.f5825a6b.chunk.js",
+    "static/js/2.f5825a6b.chunk.js.map": "/myreactapp/static/js/2.f5825a6b.chunk.js.map",
+    "static/js/3.904f576a.chunk.js": "/myreactapp/static/js/3.904f576a.chunk.js",
+    "static/js/3.904f576a.chunk.js.map": "/myreactapp/static/js/3.904f576a.chunk.js.map",
+    "index.html": "/myreactapp/index.html",
+    "static/css/main.45ad64a0.chunk.css.map": "/myreactapp/static/css/main.45ad64a0.chunk.css.map",
+    "static/js/2.f5825a6b.chunk.js.LICENSE.txt": "/myreactapp/static/js/2.f5825a6b.chunk.js.LICENSE.txt",
+    "static/media/cold.b8d6d7ed.png": "/myreactapp/static/media/cold.b8d6d7ed.png",
+    "static/media/download.b5fedcc9.jpeg": "/myreactapp/static/media/download.b5fedcc9.jpeg",
+    "static/media/me.783ee34a.png": "/myreactapp/static/media/me.783ee34a.png",
+    "static/media/mild.200b6665.png": "/myreactapp/static/media/mild.200b6665.png",
+    "static/media/sunny.d91b0b12.png": "/myreactapp/static/media/sunny.d91b0b12.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71c8c739.js",
+    "static/js/2.f5825a6b.chunk.js",
+    "static/css/main.45ad64a0.chunk.css",
+    "static/js/main.33261fcb.chunk.js"
+  ]
+}
